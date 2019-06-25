@@ -1,0 +1,21 @@
+nav ul {
+	list-style-type: none;
+	background-color: purple;
+	padding: 30px;
+}
+
+ul li {
+	display: inline;
+	padding-right: 20%;
+	font-size: 22px;
+}
+
+ul li a {
+	color: white;
+	text-decoration: none;
+}
+
+.active-link {
+	background-color: lightgrey;
+	padding: 30px;
+}
